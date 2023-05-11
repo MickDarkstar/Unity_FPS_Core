@@ -1,0 +1,7 @@
+{
+  "name": "com.mickdarkstar.fps.core",
+  "version": "1.0.0",
+  "displayName": "FPS Core",
+  "description": "Core functionality for FPS games",
+  "unity": "2021.3"
+}
